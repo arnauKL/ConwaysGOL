@@ -1,0 +1,3 @@
+C:/Users/depre/Desktop/Coding/C++/Game_of_life/cmake-build-release/_deps/sfml-subbuild/CMakeFiles/sfml-populate.dir
+C:/Users/depre/Desktop/Coding/C++/Game_of_life/cmake-build-release/_deps/sfml-subbuild/CMakeFiles/edit_cache.dir
+C:/Users/depre/Desktop/Coding/C++/Game_of_life/cmake-build-release/_deps/sfml-subbuild/CMakeFiles/rebuild_cache.dir
